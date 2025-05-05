@@ -27,4 +27,7 @@ Blinkit Sales Data Analysis with Power BI - This project analyzes retail sales d
 - **Frozen Foods and Dairy** categories are high contributors to sales.
 - Sales peak in **medium-sized outlets**, indicating optimal operational scale.**
 
+## 📷 Dashboard Snapshots
+blinkit-data_analysis-2_page-0001.jpg
+
 
